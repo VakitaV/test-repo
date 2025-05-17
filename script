@@ -1,3 +1,4 @@
+
 #!/bin/bash
 for i in 1 2 3 4 5
 do
@@ -10,3 +11,6 @@ do
 echo See Imran $i
 done
 
+# manjunatha code
+#written by manju 
+# this is the 2nd devloper changes  
