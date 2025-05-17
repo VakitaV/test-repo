@@ -4,3 +4,9 @@ do
 echo "Welcome $i times"
 done
 
+#!/bin/bash
+for i in eat run jump play
+do
+echo See Imran $i
+done
+
