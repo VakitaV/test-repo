@@ -1,11 +1,11 @@
 pipeline {
     agent any
 
-    triggers {
+//    triggers {
         cron('* * * * *')
-    }
+//    }
 
-    stages {
+//    stages {
         stage('Build mavanproject') {
             steps {
                 build job: 'mavanproject'
